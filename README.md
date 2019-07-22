@@ -1,2 +1,2 @@
 # hellow-word
-Ola mundo.
+Meu nome é Rômulo, tenho 29 anos, tenho experiência como desenvolvedor, realizei a análise e desenvolvimento de sistemas no cliente BRB(BANCO DE BRASÍLIA) no período de 1 ano e 4 meses, com o banco de dados SQL Server, implementadas nas tecnologias ASP e Delphi. Utilizado para criar uma interface web dos sistemas o HTML, CSS, JQUERY e JavaScript, aplicando também uma metodologia AJAX durante uma codificação. Trabalhei em uma startup como a linguagem PHP e com uma ferramenta JOOMLA. Atualmente tenho focado meus estudos em PHP e JAVA.
